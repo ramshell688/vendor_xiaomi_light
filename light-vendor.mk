@@ -596,6 +596,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/light/proprietary/vendor/lib64/hi259h_qtech_macro_mipi_raw_IdxMgr.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi259h_qtech_macro_mipi_raw_IdxMgr.so \
     vendor/xiaomi/light/proprietary/vendor/lib64/hi259h_qtech_macro_mipi_raw_india_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi259h_qtech_macro_mipi_raw_india_tuning.so \
     vendor/xiaomi/light/proprietary/vendor/lib64/hi259h_qtech_macro_mipi_raw_tuning.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hi259h_qtech_macro_mipi_raw_tuning.so \
+    vendor/xiaomi/light/proprietary/vendor/lib64/hal_libnfc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hal_libnfc.so \
     vendor/xiaomi/light/proprietary/vendor/lib64/hq_asd.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hq_asd.so \
     vendor/xiaomi/light/proprietary/vendor/lib64/hw/android.hardware.bluetooth@1.1-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.bluetooth@1.1-impl-mediatek.so \
     vendor/xiaomi/light/proprietary/vendor/lib64/hw/android.hardware.camera.provider@2.6-impl-mediatek.so:$(TARGET_COPY_OUT_VENDOR)/lib64/hw/android.hardware.camera.provider@2.6-impl-mediatek.so \
